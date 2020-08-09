@@ -24,6 +24,7 @@
 - lines of Longitude are not equal distance
 # Degree measurement
 ![](assets/earth-degree-measurment.png)
+This is called `2-d trilateration`
 # Example
 ![](assets/sandiego-example.png)
 # Altitude 
