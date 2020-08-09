@@ -26,6 +26,19 @@
 ![](assets/earth-degree-measurment.png)
 # Example
 ![](assets/sandiego-example.png)
+# Altitude 
+- Represent height
+![](assets/altitude.png)
+- For earth, we use for elevation map
+![](assets/altitude-map.jpg)
+# Sea level
+![](assets/earth-not-sphare.png)
+![](assets/ellipsoid-earth.png)
+![](assets/earth-different-gravity.png)
+![](assets/ellipsoid-map.png)
+![](assets/mountain-sea-level-1.png)
+![](assets/gps-measureing-sea-level.png)
+![](assets/mountain-sea-level.png)
 # Reference
 https://www.youtube.com/watch?v=swKBi6hHHMA
 https://www.youtube.com/watch?v=WPMZIJ-_a6w
